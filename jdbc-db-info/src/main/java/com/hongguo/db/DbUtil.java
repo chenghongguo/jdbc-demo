@@ -9,7 +9,7 @@ import java.util.Properties;
 /**
  * @author: chenghongguo
  * @date: 2018-11-27
- * @description:
+ * @description: DB工具类
  */
 public class DbUtil {
 
